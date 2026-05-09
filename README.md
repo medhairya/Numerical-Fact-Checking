@@ -1,7 +1,5 @@
 # Numerical Fact Checking Using SLM
 
-> **CLEF 2025 CheckThat! Lab — Task 3: Numerical Claim Verification**  
-> 🏆 **Rank 7 / 83 teams** · Macro-F1: **0.4749** · Zero-shot · No fine-tuning
 
 A two-stage Retrieval-Augmented Generation (RAG) pipeline for verifying real-world numerical and temporal claims. Given a claim, the system retrieves relevant evidence from a 426,741-document corpus and classifies it as **True**, **False**, or **Conflicting** — using only a 7B small language model with no task-specific fine-tuning.
 
