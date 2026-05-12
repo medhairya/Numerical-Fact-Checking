@@ -5,6 +5,10 @@ A two-stage Retrieval-Augmented Generation (RAG) pipeline for verifying real-wor
 
 ---
 
+Dataset Link: https://www.kaggle.com/datasets/d202511054/numerical-fact-checking-dataset-dataset
+
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
